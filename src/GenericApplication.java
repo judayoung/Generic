@@ -35,7 +35,7 @@ public class GenericApplication {
         setAndGetBox(jeanExample2, boxName);
 
         Pants jeanExample3 = new Jean();
-        boxName = "JeanBox3";
+        boxName = "PantsBox";
         setAndGetBox(jeanExample3, boxName);
 
     }
